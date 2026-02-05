@@ -1,6 +1,4 @@
 ## hi there, i am ryan 
 
-**i build cool stuff, fast**
-
-inbound.new
+i work at opencode.ai & build inbound.new on the weekends
 
